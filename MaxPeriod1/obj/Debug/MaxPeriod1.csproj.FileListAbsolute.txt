@@ -1,0 +1,6 @@
+c:\users\apandit\documents\visual studio 2012\Count\MaxPeriod1\MaxPeriod1\bin\Debug\MaxPeriod1.exe.config
+c:\users\apandit\documents\visual studio 2012\Count\MaxPeriod1\MaxPeriod1\bin\Debug\MaxPeriod1.exe
+c:\users\apandit\documents\visual studio 2012\Count\MaxPeriod1\MaxPeriod1\bin\Debug\MaxPeriod1.pdb
+c:\users\apandit\documents\visual studio 2012\Count\MaxPeriod1\MaxPeriod1\obj\Debug\MaxPeriod1.csprojResolveAssemblyReference.cache
+c:\users\apandit\documents\visual studio 2012\Count\MaxPeriod1\MaxPeriod1\obj\Debug\MaxPeriod1.exe
+c:\users\apandit\documents\visual studio 2012\Count\MaxPeriod1\MaxPeriod1\obj\Debug\MaxPeriod1.pdb
